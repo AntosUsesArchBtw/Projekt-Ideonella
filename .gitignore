@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+__pycache__/
+*.py[cod]
+.venv
+venv/
+.spyderproject
+.spyproject
+.vscode/
+*.fasta
+*.fastq
+.directory
+*.swp
+>>>>>>> ba197a0 (Initial commit: Ideonella project modules)
